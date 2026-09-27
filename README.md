@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Research-TuluLegalRAG](https://github.com/anote-ai/Research-TuluLegalRAG).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # MinPrompt-Legal: Cross-Lingual RAG for Tulu Legal Access
 
 Investigating whether large language models can help Tulu speakers — a
